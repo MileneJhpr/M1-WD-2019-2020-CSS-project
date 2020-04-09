@@ -1,3 +1,32 @@
 body{
-  background-color: pink;
+  background-color: #efa8e4;
+  font-family: 'Girassol', cursive;
+  letter-spacing: 2px;
+  color: #fff0f5;
+}
+
+section{
+  border-bottom: 2px solid #97e5ef;
+  min-height: 65vh;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+#main-menu{
+  background: #f8e1f4;
+  height: 100%;
+  width: 320px;
+  position: absolute;
+  top: 0;
+  left: -320px;
+  transition: 0.8s all ease;
+}
+
+#main-menu:target{
+  left: 0;
+}
+
+button{
+  padding: 10px;
+  margin: 20px;
 }
