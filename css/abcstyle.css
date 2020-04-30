@@ -1,29 +1,49 @@
-/* Webfont: OpticianSans-Regular */@font-face {
-    font-family: 'OpticianSans';
-    src: url('../fonts/Optiker-K.woff2') format('woff2'), /* Modern Browsers */
-         url('../fonts/Optiker-K.ttf') format('truetype'); /* Safari, Android, iOS */
-             font-style: normal;
-    font-weight: normal;
-    text-rendering: optimizeLegibility;
-}
-
-body{
-  font-family: 'OpticianSans'
-}
-
 #abecedaire{
   display: grid;
   grid-template-columns: repeat(6, 1fr);
   grid-gap: 10px;
   grid-auto-rows: minmax(100px, auto);
+  text-align: center;
 }
-p {
+/* Webfont: OpticianSans-Regular */@font-face {
+    font-family: 'OpticianSans';
+    src: url('../font/Optiker-K.woff2') format('woff2'), /* Modern Browsers */
+         url('../font/Optiker-K.ttf') format('truetype'); /* Safari, Android, iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+body{
+  font-family: 'OpticianSans';
+}
+header{
+position: fixed;
+height: 200px;
+}
+#abecedaire > div {
   border: solid 1px green;
-  font-size: 7em;
+  font-size: 4em;
+  margin: 0;
+}
+figcaption {
+  font-size: 0.3em;
+}
+.wrapper{
+  padding-top: 200px;
 }
 #abecedaire:target {
   display: grid;
   grid-template-columns: repeat(1, 1fr);
   grid-gap: 10px;
   grid-auto-rows: minmax(100px, auto);
+  text-align: left;
+}
+@media screen and (max-width: 1200px) {
+  #abecedaire {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-gap: 10px;
+    grid-auto-rows: minmax(100px, auto);
+    text-align: left;
+  }
 }
