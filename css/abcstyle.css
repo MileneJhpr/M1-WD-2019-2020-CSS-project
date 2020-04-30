@@ -15,8 +15,14 @@
 }
 body{
   font-family: 'OpticianSans';
+  background-color: #08050E;
+  color: #d8b9c3;
 }
 
+#backhome img{
+  width: 40px;
+  margin-top: 8px;
+}
 #bigtitle{
   position: absolute;
   display: inline;
@@ -25,8 +31,19 @@ body{
 }
 header{
 position: fixed;
-height: 200px;
+margin-left: 70vw;
+margin-top: 5px;
+background-color: #08050E;
+padding: 20px;
 }
+
+.intro{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
 #abecedaire > div {
   border: solid 1px green;
   font-size: 4em;
@@ -36,7 +53,7 @@ figcaption {
   font-size: 0.3em;
 }
 .wrapper{
-  padding-top: 200px;
+  padding-top: 100px;
 }
 #abecedaire:target {
   display: grid;
