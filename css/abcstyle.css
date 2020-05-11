@@ -45,7 +45,6 @@ padding: 20px;
 }
 
 #abecedaire > div {
-  border: solid 1px green;
   font-size: 4em;
   margin: 0;
 }
@@ -53,6 +52,7 @@ figcaption {
   font-size: 0.3em;
 }
 .wrapper{
+    padding: 10%;
   padding-top: 100px;
 }
 #abecedaire:target {
@@ -70,4 +70,111 @@ figcaption {
     grid-auto-rows: minmax(100px, auto);
     text-align: left;
   }
+}
+
+/* ANIMATION CARDS */
+
+/* LETTRE A */
+.container {padding:50px;width:990px;margin:0 auto}
+.sep {width:100%;text-align:center}
+.sep .image-hover {margin:20px 20px 20px 0px}
+.img-opacity svg {top:0px;right:0px;bottom:0px;left:0px}
+
+.img-opacity .img-2 {
+  opacity:0;
+  transform: translate(0px,-20%);
+}
+.img-opacity:hover .img-2 {
+  opacity:1;
+transform: translate(0px,0%);
+}
+.centipede{
+  transform: translate(0px,-8%)
+}
+.img-opacity:hover .centipede{
+  transform: translate(0px,0%)
+}
+.img-opacity:hover .centipede
+{
+transition:all 3s ease-in-out;
+-webkit-transition:all 3s ease-in-out;
+-moz-transition:all 3s ease-in-out;
+-ms-transition:all 3s ease-in-out;
+-o-transition:all 3s ease-in-out;
+}
+.img-opacity .img-2
+{
+transition:all .6s ease-in-out;
+-webkit-transition:all .6s ease-in-out;
+-moz-transition:all .6s ease-in-out;
+-ms-transition:all .6s ease-in-out;
+-o-transition:all .6s ease-in-out;
+}
+
+.img-opacity:hover .img-2
+{
+transition:all .6s ease-in-out;
+-webkit-transition:all .6s ease-in-out;
+-moz-transition:all .6s ease-in-out;
+-ms-transition:all .6s ease-in-out;
+-o-transition:all .6s ease-in-out;
+}
+
+.img-opacity .centipede
+{
+transition:all 5s ease-in-out;
+-webkit-transition:all 5s ease-in-out;
+-moz-transition:all 5s ease-in-out;
+-ms-transition:all 5s ease-in-out;
+-o-transition:all 5s ease-in-out;
+}
+
+
+/* LETTRE B */
+.two {
+  width:100%;
+  text-align:center;
+  padding-top:15px;
+}
+
+@keyframes masuperanimation {
+    0% {
+        transform: translate(80px,0%) rotate(0deg);
+    }
+
+    100% {
+        transform: translate(80px,0%) rotate(1000deg);
+    }
+}
+#insects{
+  width: 40%;
+  animation: masuperanimation 16s linear alternate infinite;
+  transition: 10s;
+}
+
+#CalqueB {
+  opacity:0;
+  transform: translate(0px,-10%);
+}
+#CalqueB:hover{
+  opacity:1;
+  transform: translate(0px,0%);
+}
+
+#CalqueB
+{
+transition:all .6s ease-in-out;
+-webkit-transition:all .6s ease-in-out;
+-moz-transition:all .6s ease-in-out;
+-ms-transition:all .6s ease-in-out;
+-o-transition:all .6s ease-in-out;
+}
+
+.two:hover #CalqueB
+{
+transition:all .6s ease-in-out;
+-webkit-transition:all .6s ease-in-out;
+-moz-transition:all .6s ease-in-out;
+-ms-transition:all .6s ease-in-out;
+-o-transition:all .6s ease-in-out;
 }
