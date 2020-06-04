@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 247 281" style="enable-background:new 0 0 247 281;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#827397;}
+	.st2{font-family:'Girassol-Regular';}
+	.st3{font-size:28.9047px;}
+	.st4{fill:#D8B9C3;}
+</style>
+<g id="cardNom">
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="123.4516" y1="165.1219" x2="121.9074" y2="259.8326">
+		<stop  offset="0" style="stop-color:#150C27"/>
+		<stop  offset="0.8298" style="stop-color:#302A57"/>
+		<stop  offset="1" style="stop-color:#363062"/>
+	</linearGradient>
+	<path class="st0" d="M220.5,259H24.8c-6.6,0-11.9-5.3-11.9-11.9v-65.2c0-6.6,5.3-11.9,11.9-11.9h195.6c6.6,0,11.9,5.3,11.9,11.9
+		v65.2C232.4,253.7,227,259,220.5,259z"/>
+	<text transform="matrix(1 0 0 1 76.2408 243.7607)" class="st1 st2 st3">Unicorn</text>
+</g>
+<g id="starlight2">
+</g>
+<g id="starlight1">
+</g>
+<g id="cardA">
+	<g>
+		<path class="st1" d="M199.4,207.1H45.5c-19,0-34.4-15.4-34.4-34.4V34.4C11.1,15.4,26.5,0,45.5,0h153.9c19,0,34.4,15.4,34.4,34.4
+			v138.3C233.8,191.7,218.4,207.1,199.4,207.1z"/>
+	</g>
+	<g>
+		<path class="st4" d="M139,91.1c-1.2,2.1-2.4,4.1-3.7,6.1c-6.2,18.9-10,38.6-12,58.6c-0.3,2.7-4.5,2.8-4.4,0
+			c0.4-8.3,1.3-16.4,2.7-24.6c1.1-6.4,2.5-12.7,4.1-18.9c-2.7,4.1-5.5,8-8.4,11.9c-3.9,5.2-8,10.2-12.5,15c-3,3.2-8.5,9.6-13.3,5.2
+			c-3.8-3.5-1.8-10.1-1-14.4c1.3-6.9,2.9-13.7,4.7-20.4c3.7-13,8.3-26.2,14.8-38.1c0.6-1,2.3-0.3,1.9,0.8
+			c-5.1,12.7-10,25.3-13.4,38.6c-1.6,6-2.9,12.2-3.9,18.3c-0.3,2-3.2,14.9,2.2,11.4c2.5-1.6,4.5-4.4,6.5-6.6c1.8-2,3.6-4.1,5.3-6.2
+			c3.8-4.6,7.3-9.5,10.6-14.4c4-5.9,7.8-11.9,11.4-18c5.3-15.7,12.2-30.9,20.5-45.3c1.1-1.9,4.3-1.1,4.3,1.2
+			C155.2,66.1,146.2,78.9,139,91.1z"/>
+	</g>
+</g>
+</svg>

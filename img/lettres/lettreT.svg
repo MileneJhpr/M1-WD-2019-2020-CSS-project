@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 247 281" style="enable-background:new 0 0 247 281;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#827397;}
+	.st2{font-family:'Girassol-Regular';}
+	.st3{font-size:28.9047px;}
+	.st4{fill:#D8B9C3;}
+</style>
+<g id="cardNom">
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="123.4516" y1="165.1219" x2="121.9074" y2="259.8326">
+		<stop  offset="0" style="stop-color:#150C27"/>
+		<stop  offset="0.8298" style="stop-color:#302A57"/>
+		<stop  offset="1" style="stop-color:#363062"/>
+	</linearGradient>
+	<path class="st0" d="M220.5,259H24.8c-6.6,0-11.9-5.3-11.9-11.9v-65.2c0-6.6,5.3-11.9,11.9-11.9h195.6c6.6,0,11.9,5.3,11.9,11.9
+		v65.2C232.4,253.7,227,259,220.5,259z"/>
+	<text transform="matrix(1 0 0 1 54.4038 231.7607)"><tspan x="0" y="0" class="st1 st2 st3">Trelawney </tspan><tspan x="25.6" y="25" class="st1 st2 st3">Sybille</tspan></text>
+</g>
+<g id="starlight2">
+</g>
+<g id="starlight1">
+</g>
+<g id="cardA">
+	<g>
+		<path class="st1" d="M199.5,207.4H45.6c-19,0-34.4-15.4-34.4-34.4V34.7c0-19,15.4-34.4,34.4-34.4h153.9c19,0,34.4,15.4,34.4,34.4
+			V173C233.9,192,218.5,207.4,199.5,207.4z"/>
+	</g>
+	<g>
+		<path class="st4" d="M169.3,68.2c0,2-2.6,2.1-3.3,0.4c-1.7-4.1-6.7-3.7-10.2-3.2c-3.9,0.6-7.9,1.4-11.8,2.3
+			c-7.6,1.7-15.2,3.8-22.6,6.4c-7.5,2.6-14.9,5.6-22,9c-3.6,1.7-7.1,3.6-10.6,5.5c-3.4,1.9-6.8,4.4-10.4,6c-1.6,0.7-3.6-1.3-2-2.6
+			c3.3-2.8,7.5-4.9,11.2-7c4-2.2,8-4.3,12.1-6.3c8-3.8,16.2-7.2,24.6-10c8.5-2.8,17.2-5.1,26-6.9C156.3,60.8,169.5,58.3,169.3,68.2z
+			 M115,80c-3.1,11-6,22.1-8.7,33.2c-1.4,5.6-2.7,11.3-3.9,17c-0.6,2.8-1.2,5.5-1.8,8.3c-0.5,2.5-0.8,5.4-2,7.7
+			c-0.9,1.6-3.1,0.7-3.2-0.9c-0.2-2.7,0.9-5.7,1.5-8.3c0.6-2.8,1.3-5.5,1.9-8.2c1.3-5.5,2.7-11,4.1-16.4c2.9-11.1,6-22.1,9.4-33
+			C112.8,77.5,115.6,78.2,115,80z"/>
+	</g>
+</g>
+</svg>
